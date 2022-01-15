@@ -81,7 +81,7 @@
             </div>
             <div class="col-lg-7">
               <div class="hero-content text-left gr-pt-5 gr-pl-lg-10 gr-pl-0">
-                <h2 class="gr-text-2 font-weight-bold">#AnxietyBy<span style="color: #323338;">Ausra</span> - NFTs built by culture</h2>
+                <h2 class="gr-text-2 font-weight-bold">#AnxietyBy<span style="color: #323338;">Ausra</span> - NFTs inspired by culture</h2>
                 <span class="gr-text-7 gr-pt-5 gr-pb-7 d-inline-block">We are building a NFT collection filled with passion, emotions, love and pain. There is a real life story or event behind every art we create. You are not buying another art, you are buying an experience.</span>
                 <div class="gr-pt-3">
                   <a href="https://opensea.io/AusraNFT" class="btn btn-outline goto rounded-pill gr-text-12 gr-btn-border">Explore on Opensea</a>
