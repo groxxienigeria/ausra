@@ -8,7 +8,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Ausra - NFTS built by culture</title>
+  <title>Ausra - NFTs inspired by culture</title>
   <link rel="shortcut icon" href="./assets//image/favicon1.png" type="image/x-icon">
   <!-- Bootstrap , fonts & icons  -->
   <link rel="stylesheet" href="./assets/css/bootstrap.css">
@@ -38,7 +38,7 @@
           <nav class="navbar site-navbar offcanvas-active navbar-expand-lg navbar-light">
             <!-- Brand Logo-->
             <div class="brand-logo">
-              <a href="index.html">
+              <a href="/">
                 <img src="./assets//image/logo.png">
               </a>
             </div>
